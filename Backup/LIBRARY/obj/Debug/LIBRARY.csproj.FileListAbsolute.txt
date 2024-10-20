@@ -1,0 +1,4 @@
+E:\Gian Carlo P. Aquino\Group 1 Mang Inasal\LIBRARY\Backup\LIBRARY\obj\Debug\ResolveAssemblyReference.cache
+E:\Gian Carlo P. Aquino\Group 1 Mang Inasal\LIBRARY\Backup\LIBRARY\obj\Debug\LIBRARY.library.resources
+E:\Gian Carlo P. Aquino\Group 1 Mang Inasal\LIBRARY\Backup\LIBRARY\obj\Debug\LIBRARY.Properties.Resources.resources
+E:\Gian Carlo P. Aquino\Group 1 Mang Inasal\LIBRARY\Backup\LIBRARY\obj\Debug\LIBRARY.csproj.GenerateResource.Cache
